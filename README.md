@@ -35,3 +35,22 @@ However, I do not intend to recommend any models, as the random oversampling app
 ![Alt text](Images/original_target_values.png)
 ![Alt text](Images/resampled_target_values.png)
 
+## Skills
+* Pandas
+* Numpy
+* Sklearn
+* Balanced accuracy score
+* Confusion matrix
+* Classification report imbalanced
+* Split the Data into Training and Testing Sets
+* Logistic Regression Model
+* Random OverSampling
+* Imbalanced-learn
+* Credit Risk Report
+
+## Implementation:
+* Credit risk classification
+* Machine learning models
+* Evaluate the model’s performance
+* Random Resampling for imbalanced data
+
