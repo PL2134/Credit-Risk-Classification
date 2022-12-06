@@ -48,7 +48,7 @@ However, I do not intend to recommend any models, as the random oversampling app
 * Imbalanced-learn
 * Credit Risk Report
 
-## Implementation:
+## Implementation
 * Credit risk classification
 * Machine learning models
 * Evaluate the model’s performance
